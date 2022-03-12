@@ -33,3 +33,6 @@
       
         Please feel free to reach me at gavinwentzel@gmail.com or view my github profile at "https://github.com/gwentzel26", 
         my username is gwentzel26
+
+    Links: Deployed App : https://gwnote-taker.herokuapp.com/notes
+                 Github repo: https://github.com/gwentzel26/Note-Taker_
